@@ -9,7 +9,7 @@ This project aims to analyze historical SpaceX launch data to understand factors
 * **Goal:** To accurately predict the outcome (`Success` or `Failure`) of a SpaceX launch based on pre-flight and mission parameters.
 * **Key Finding:** After hyperparameter tuning with `GridSearchCV`, **all four classification models (Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors) achieved a final test accuracy of approximately 83.33%**.
 * **Most Important Features:** Exploratory Data Analysis (EDA) showed that **Payload Mass** and **Orbit Type** are the strongest predictors of success.
-* **Model Performance:** The best-performing model (KNN/SVM/LR) demonstrated **zero False Negatives**, meaning the model never predicted a successful launch as a failure.
+* **Model Performance:** The best-performing model (KNN/SVM/LR) demonstrated **zero False Negatives**, meaning the model never misclassified a successful launch as a failure.
 
 ## 🛠️ Methodology & Techniques
 
