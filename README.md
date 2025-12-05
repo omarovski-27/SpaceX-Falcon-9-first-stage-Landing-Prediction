@@ -57,4 +57,4 @@ This repository is organized as a data science pipeline, moving from raw data co
 
 ## 📜 Author
 **[Omar Al-Ouran]**
-* [LinkedIn Profile](https://www.linkedin.com/in/omar-al-ouran-101193215/) *
+* [LinkedIn Profile](https://www.linkedin.com/in/omar-al-ouran-101193215/) 
