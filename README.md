@@ -30,7 +30,6 @@ This repository is organized as a data science pipeline, moving from raw data co
 | **05** | [**EDA & Visualization**](05_EDA_Visualization.ipynb) | Visualizing success rates and correlations using Matplotlib and Seaborn. |
 | **06** | [**Geospatial Analysis**](06_Geospatial_Analysis.ipynb) | Interactive maps using Folium to visualize launch site proximity and coastlines. |
 | **07** | [**Machine Learning**](07_Machine_Learning_Models.ipynb) | Building and tuning classification models (Logistic Regression, SVM, KNN, Decision Tree). |
-| **08** | [**Project Presentation**](Project_Presentation.pdf) | Executive summary and final slides detailing the methodology and results. |
 
 ---
 
